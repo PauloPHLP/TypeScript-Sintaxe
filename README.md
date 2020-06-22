@@ -1,6 +1,22 @@
-# TypeScript - Sintaxe Project
+# 🖥️ Sintaxe
+
+<h1 align="center">
+  <img src=".github/logo.png" width="200px" />
+</h1>
+
+## 🔎️ Description
 An app to learn the basics of TypeScript sintaxe.
 
-This project was made during the "Understanding TypeScript" course on Udemy.
+This project was made during the <a href="https://www.udemy.com/course/understanding-typescript/">Understanding TypeScript</a> course on Udemy.
 
-In this project I've used HTML, JavaScript and TypeScript.
+## 🚀️ Technologies
+
+- HTML
+- JavaScript
+- TypeScript
+ 
+---
+
+Thank you and good coding 😎️
+
+Made by **<a href="https://paulophlp.github.io/portfolio/" target="__blank">Paulo Lima 🤓️</a>**
